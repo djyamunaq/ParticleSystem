@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Particle.h
+eigen3/Eigen/Dense
+-
+cmath
+-
+vector
+-
+ctime
+-
+chrono
+-
+sys/time.h
+-
+
+/home/dyxcvi/Documents/ParticleSystem/src/Particle.cpp
+Particle.h
+/home/dyxcvi/Documents/ParticleSystem/src/Particle.h
+

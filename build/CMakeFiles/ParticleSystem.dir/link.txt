@@ -1,0 +1,2 @@
+/usr/bin/ar qc libParticleSystem.a  CMakeFiles/ParticleSystem.dir/src/ParticleSystem.cpp.o
+/usr/bin/ranlib libParticleSystem.a
